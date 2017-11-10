@@ -21,7 +21,7 @@ Each club will have their own landing page where you can view information like m
 
 ![clubpage](https://user-images.githubusercontent.com/22554003/32635510-bcd2d54c-c554-11e7-8137-18fdb0115d30.png)
 
-Each user will have their own custom profile page where it displays their interests and a small blurb about who they are.
+Each user will have their own profile page where it displays their name, major, campus, interests and a small blurb about who they are.
 
 ![userpage](https://user-images.githubusercontent.com/22554003/32635505-b9981f86-c554-11e7-9a6f-1a0d8b55c432.png)
 
