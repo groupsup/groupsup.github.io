@@ -2,6 +2,8 @@
 
 GroupsUp is an application designed to promote student activity and the growth of clubs of University of Hawaii. Students can find clubs and club events based on interests. Club leaders can use it to promote events in a way that is simple for students to find, and let them know how to get involved! 
 
+[groupsup](http://groupsup.meteorapp.com/)
+
 ![landingpage](https://user-images.githubusercontent.com/22554003/32635501-b82c5072-c554-11e7-9ddd-a573c10d2ada.png)
 
 # Meet the Team
