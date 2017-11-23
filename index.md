@@ -4,7 +4,7 @@ GroupsUp is an application designed to promote student activity and the growth o
 
 [groupsup](http://groupsup.meteorapp.com/)
 
-![landingpage](https://user-images.githubusercontent.com/22554003/32635501-b82c5072-c554-11e7-9ddd-a573c10d2ada.png)
+![landingpage](https://github.com/groupsup/groupsup.github.io/blob/master/Landing_v1.0.png)
 
 # Meet the Team
 
@@ -17,7 +17,7 @@ GroupsUp is an application designed to promote student activity and the growth o
 
 The dashboard displays upcomming events for the clubs you the user belong to and any notifications from the specific clubs themselves. 
 
-![dashboard](https://user-images.githubusercontent.com/22554003/32635495-b3af559e-c554-11e7-80f2-fba193cefe55.png)
+![dashboard](https://github.com/groupsup/groupsup.github.io/blob/master/Dashboard_v1.0.png)
 
 Each club will have their own landing page where you can view information like meeting times, location, and events they are hosting.
 
@@ -25,7 +25,7 @@ Each club will have their own landing page where you can view information like m
 
 Each user will have their own profile page where it displays their name, major, campus, interests and a small blurb about who they are.
 
-![userpage](https://user-images.githubusercontent.com/22554003/32635505-b9981f86-c554-11e7-9a6f-1a0d8b55c432.png)
+![userpage](https://github.com/groupsup/groupsup.github.io/blob/master/Edit-Profile_v1.0.png)
 
 If you are looking for new clubs to join, use the browse feature where you can filter clubs based on interests in order to find exactly what you're looking for!
 
