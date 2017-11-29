@@ -4,7 +4,7 @@ GroupsUp is an application designed to promote student activity and the growth o
 
 [groupsup](http://groupsup.meteorapp.com/)
 
-![landingpage](https://github.com/groupsup/groupsup.github.io/blob/master/Landing_v1.0.png)
+![landingpage](/Landing_v1.0.png)
 
 # Meet the Team
 
