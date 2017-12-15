@@ -9,6 +9,7 @@
   * [Login](#login)
   * [Profile](#profile)
   * [Find Groups](#find-groups)
+  * [Group Admins](#group-admins)
 * [Dev Guide](#dev-guide)
   * [Installation](#installation)
   * [Running](#running-groupsup)
@@ -24,6 +25,8 @@
 
 GroupsUp is an meteor app designed to promote student activity and the growth of clubs of University of Hawaii. Students can find clubs and club events based on interests. Club leaders can use it to promote events in a way that is simple for students to find, and let them know how to get involved! 
 
+<hr>
+
 ## User Guide
 
 ### Login
@@ -37,7 +40,14 @@ Under the 'Profile' tab go ahead an hit edit to updat your personal information.
 ![edit profile v2](/Edit-Profile_v2.0.png)
 
 ### Find Groups
+Now that you're a part of the community click on the groups tab to search over 200 groups at UH Manoa and see what they have to offer. You can click on one and let them show you what they got.
 
+![group page](Group_v2.0.png)
+
+### Group Admins
+If you're in charge of a group's page click on "your group" and then the "edit" on your group's page. From here you can edit information such as the meeting time and place (a single string so you have the freedom to say it how you want), your group's interests, images, and last but not least, your "about us."
+
+![group edit](Edit-Group_v2.0.png)
 
 <hr>
 
