@@ -12,6 +12,7 @@
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
   * [Going Forward](#milestone-3)
+* [Community Feedback](#community-feedback)  
 
 ### Overview of GroupsUp
 
@@ -112,6 +113,9 @@ If you are looking for new clubs to join, use the browse feature where you can f
 
 Also during this time, thought was being put into how the data model was going to be designed.
 
+### Community Feedback
+
+Our test base's main concern was available content. 
 
 
 
