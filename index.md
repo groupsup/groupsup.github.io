@@ -5,6 +5,10 @@
 # Table of contents
 
 * [Overview: GroupsUp](#overview-of-groupsup)
+* [User Guide](#user-guide)
+  * [Login](#login)
+  * [Profile](#profile)
+  * [Find Groups](#find-groups)
 * [Dev Guide](#dev-guide)
   * [Installation](#installation)
   * [Running](#running-groupsup)
@@ -16,12 +20,28 @@
   * [Going Forward](#milestone-3)
 * [Community Feedback](#community-feedback)  
 
-### Overview of GroupsUp
+## Overview of GroupsUp
 
 GroupsUp is an meteor app designed to promote student activity and the growth of clubs of University of Hawaii. Students can find clubs and club events based on interests. Club leaders can use it to promote events in a way that is simple for students to find, and let them know how to get involved! 
 
+## User Guide
+
+### Login
+For this application you must have an account in the UH Cas-Login system. If you are a part of that system then you're already set! simply click "Get Started" on the homepage and login with your UH account.
+
+![Landing](Landing_v1.0.png)
+
+### Profile
+Under the 'Profile' tab go ahead an hit edit to updat your personal information. Don't forget to let us know what you're interested in so we can help you find groups with similar interests!
+
+![edit profile v2](/Edit-Profile_v2.0.png)
+
+### Find Groups
+
+
 
 ## Dev Guide
+
 ### Installation
 
 1. [Install Meteor](https://www.meteor.com/install).
@@ -94,7 +114,6 @@ If successful, the application will appear at [http://localhost:3000](http://loc
 This basis on what the entire project is built on are three main JavaScript objects named: InterestCollection, ProfileCollection, and GroupCollection. To simplify implementation, [SimpleSchema](https://github.com/aldeed/meteor-simple-schema) was used. 
 
 To even further simplify implementation, the ProfileCollection and InterestCollection classes inherit from the BaseCollection class.
-
 
 ## Milestone 1
 
