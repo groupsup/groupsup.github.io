@@ -1,4 +1,4 @@
-# Welcome to GroupsUP  <img style="floated:right;" height="50" width="50" src="groupsup-500x500-nobackground.png">
+# Welcome to GroupsUP
 
 <a href="http://groupsup.meteorapp.com/"><i class="large github icon"></i>GroupsUp Meteor App</a>
 
