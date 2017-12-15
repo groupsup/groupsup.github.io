@@ -122,9 +122,45 @@ Also during this time, thought was being put into how the data model was going t
 
 Our main hurdle and goal was implementing the database. We designed it with our core ideas for the application in mind; we have users, groups, and interests. These cornerstones of the application would also become the foundations of our database.
 
+Group collection
+```
+class GroupCollection extends BaseCollection {
+	constructor() {
+		super('Group', new SimpleSchema ({
+			name: { type: String },
+			interest_id: [Number],
+      meeting_info: String,
+      admin: String,
+      group_image: String,
+      image_one: String,
+      image_two: String,
+      image_three: String,
 
+		}, { tracker: Tracker }));
+	}
+```
+
+Profile collection
+```
+class ProfileCollection extends BaseCollection {
+  constructor() {
+    super('Profile', new SimpleSchema({
+      username: { type: String },
+      // Remainder are optional
+      first_name: { type: String, optional: true },
+      last_name: { type: String, optional: true },
+      bio: { type: String, optional: true },
+      interests: { type: Array, optional: true },
+      'interests.$': { type: String }, 
+      image: { type: SimpleSchema.RegEx.Url, optional: true },
+      groups_id: { type: Array, optional: true },
+      'groups_id.$': { type: Number }
+    }, { tracker: Tracker }));
+  }
+```
 
 As we continued development we saw more pages that were needed and finished off some that were required for our main structure. Then with both the database complete we took to connecting pages to access it.
+
 ![userpage with database](/database-profile.png)
 
 ![grouppage](/Group_v2.0.png)
