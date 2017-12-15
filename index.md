@@ -203,6 +203,14 @@ User profile page:
 Group page:
 ![grouppage](/Group_v2.0.png)
 
+### Milestone 3
+We want to provide a complete and satisfactory experience for users. Our goal is to allow users to connect to those other groups with similar interest through a safe and responsive system; we think our future goals reflect that ideaology.
+<ul>
+	<li>Finish group directory</li>
+	<li>Sort groups based on user's interests</li>
+	<li>Implement site admin roles</li>
+	<li>Implement report system</li>
+</ul>
 <hr>
 
 ## Community Feedback
