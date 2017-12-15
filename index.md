@@ -120,11 +120,14 @@ Also during this time, thought was being put into how the data model was going t
 
 ## Milestone 2
 
-As we continued development we saw more pages that were needed and finished off some that were required for our main structure.
-
-
 Our main hurdle and goal was implementing the database. We designed it with our core ideas for the application in mind; we have users, groups, and interests. These cornerstones of the application would also become the foundations of our database.
 
+
+
+As we continued development we saw more pages that were needed and finished off some that were required for our main structure. Then with both the database complete we took to connecting pages to access it.
+![userpage with database](/database-profile.png)
+
+![grouppage](/Group_v2.0.png)
 
 ## Community Feedback
 
