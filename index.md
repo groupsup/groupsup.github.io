@@ -5,7 +5,9 @@
 # Table of contents
 
 * [Overview: GroupsUp](#overview-of-groupsup)
-* [Installation](#installation)
+* [Dev Guide](#dev-guide)
+  * [Installation](#installation)
+  * [Running](#running-groupsup)
 * [Application Design](#application-design)
   * [Data Model](#data-model)
 * [Development History](#development-history)
@@ -18,6 +20,8 @@
 
 GroupsUp is an meteor app designed to promote student activity and the growth of clubs of University of Hawaii. Students can find clubs and club events based on interests. Club leaders can use it to promote events in a way that is simple for students to find, and let them know how to get involved! 
 
+
+## Dev Guide
 ### Installation
 
 1. [Install Meteor](https://www.meteor.com/install).
@@ -71,6 +75,7 @@ $ meteor npm install
   }
 }
 ```
+### Running GroupsUp
 
 And run the command:
 
