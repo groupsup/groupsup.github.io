@@ -96,7 +96,7 @@ This basis on what the entire project is built on are three main JavaScript obje
 To even further simplify implementation, the ProfileCollection and InterestCollection classes inherit from the BaseCollection class.
 
 
-# Milestone 1
+## Milestone 1
 
 Development began with the mockup of the main pages users will be encountering the most.
 
@@ -117,6 +117,8 @@ If you are looking for new clubs to join, use the browse feature where you can f
 ![browse](https://user-images.githubusercontent.com/22554003/32635478-9ef7a228-c554-11e7-9984-37f0f2b220dd.png)
 
 Also during this time, thought was being put into how the data model was going to be designed.
+
+## Milestone 2
 
 ### Community Feedback
 
