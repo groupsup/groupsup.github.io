@@ -115,7 +115,7 @@ Also during this time, thought was being put into how the data model was going t
 
 ### Community Feedback
 
-Our test base's main concern was available content. 
+Our test base's main concern was available content, as they were using it mainly in a time in which the database was not connected to anything. The user's really enjoyed the aesthetic design as well as functional design saying it felt "familiar." They did manage to help us in nailing down a few bugs with routing as there was an issue with the routing adding a space to some usernames. We, the GroupsUp team, appreciate all of the feedback we recieved from our testers and are working to improve our application.
 
 
 
