@@ -39,6 +39,7 @@ Under the 'Profile' tab go ahead an hit edit to updat your personal information.
 ### Find Groups
 
 
+<hr>
 
 ## Dev Guide
 
@@ -107,7 +108,9 @@ If successful, the application will appear at [http://localhost:3000](http://loc
 
 5. Make sure you have an account on the UH test CAS server or else you will be unable to login with your UH username and password.
 
-### Application Design
+<hr>
+
+## Application Design
 
 ### Data Model
 
@@ -115,7 +118,11 @@ This basis on what the entire project is built on are three main JavaScript obje
 
 To even further simplify implementation, the ProfileCollection and InterestCollection classes inherit from the BaseCollection class.
 
-## Milestone 1
+<hr>
+
+## Development History
+
+### Milestone 1
 
 Development began with the mockup of the main pages users will be encountering the most.
 
@@ -137,7 +144,7 @@ If you are looking for new clubs to join, use the browse feature where you can f
 
 Also during this time, thought was being put into how the data model was going to be designed.
 
-## Milestone 2
+### Milestone 2
 
 Our main hurdle and goal was implementing the database. We designed it with our core ideas for the application in mind; we have users, groups, and interests. These cornerstones of the application would also become the foundations of our database.
 
@@ -185,6 +192,8 @@ User profile page:
 
 Group page:
 ![grouppage](/Group_v2.0.png)
+
+<hr>
 
 ## Community Feedback
 
